@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_GetAllAllegroCategoriesAndVerifyStatusCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9ca38df-db67-483c-aa59-8c4d433907b6</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC019_GetParametersSupportedByNotExistCategoryAndVerifyStatusCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cd43728-9abb-4fea-aa4f-298628401e6f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC016_GetParametersSupportedByCategoryAndVerifyStatusCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2714c1c5-2661-4fb0-a9b9-02b21d01b2d6</testCaseGuid>
+</TestCaseEntity>

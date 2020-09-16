@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005_GetAllAllegroCategoriesAndVerifyResponseContentType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae4d4dc9-602f-4c40-92d1-94b51e59f890</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC008_GetAllegroCategoryAndVerifyQuantityOfCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5193f28-cd79-411d-ae87-c8a0740faa82</testCaseGuid>
+</TestCaseEntity>

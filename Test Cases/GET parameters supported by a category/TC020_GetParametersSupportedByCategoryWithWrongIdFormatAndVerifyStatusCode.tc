@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC020_GetParametersSupportedByCategoryWithWrongIdFormatAndVerifyStatusCode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5da6ad99-f4a2-4513-89ae-0bcba56e3e0f</testCaseGuid>
+</TestCaseEntity>

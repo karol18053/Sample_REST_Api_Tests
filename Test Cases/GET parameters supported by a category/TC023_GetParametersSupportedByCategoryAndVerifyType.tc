@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC023_GetParametersSupportedByCategoryAndVerifyType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23acf7a9-ed47-4e91-b309-7a46e3d8483b</testCaseGuid>
+</TestCaseEntity>

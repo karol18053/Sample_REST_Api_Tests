@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC018_GetParametersSupportedByCategoryAndVerifyQuantityOfCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0e83a54-22a7-415e-a0a2-67e5506d595e</testCaseGuid>
+</TestCaseEntity>

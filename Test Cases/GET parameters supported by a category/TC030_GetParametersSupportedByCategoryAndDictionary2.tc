@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC030_GetParametersSupportedByCategoryAndDictionary2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6922d8a-5848-4dd6-a059-1aaba8fa6c4e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC027_GetParametersSupportedByCategoryAndVerifyOptionsForFirstParameter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2dc18ea6-0c71-43a8-aa26-bb75f6b9e6a5</testCaseGuid>
+</TestCaseEntity>

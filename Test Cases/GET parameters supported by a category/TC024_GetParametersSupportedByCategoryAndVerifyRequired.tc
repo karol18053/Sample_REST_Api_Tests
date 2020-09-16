@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC024_GetParametersSupportedByCategoryAndVerifyRequired</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1607b8c-f4a0-4c20-99fb-7026e7c61dc4</testCaseGuid>
+</TestCaseEntity>
