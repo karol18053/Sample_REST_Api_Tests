@@ -12,7 +12,7 @@ Uruchomienie projektu (środowisko Windows):
 9.	pod zakładka Debug na górnym pasku programu powinna znaleźć się czerwona ikona Gita, klikamy po jej prawej stronie w czarną strzałkę, która rozwija opcję, wybieramy Clone Project, kreator prowadzi do zakończenia procesu klonowania repo z git
 10.	po zakończeniu klonowania program załaduje automatycznie sklonowany projekt
 11.	aby uruchomić testy należy z sekcji po lewej stronie wybrać folder Test Suites -> podwójne kliknięcie myszki na Sample Test Suite Collection
-12.	w sekcji po prawej otworzy się kolekcja, aby uruchomić testy należy kliknąć Execute w górnej sekcji okna kolekcji
+12.	w sekcji po prawej otworzy się kolekcja, aby uruchomić testy należy kliknąć Execute w górnej sekcji okna kolekcji, w przypadku gdyby nie było przycisku Execute należy przełączyć kolekcje do sekcji Main, nalezy kliknąć przycisk Main znajdujący się w lewej dolnej części okna kolekcji
 13.	koniec :)
 14.	przypadki testowe znajdują się w folderze Test Cases w odpowiednich katalogach
 15.	aby uruchomić dany test otwieramy go podwójnym kliknięciem na nim i klikamy dużą zieloną ikonę Play w prawej górnej sekcji programu
